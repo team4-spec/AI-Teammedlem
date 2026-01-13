@@ -1,5 +1,3 @@
-This README contains the comprehensive installation process, including prerequisites and direct links to external assets and software required for the **AI Awards 2026** jury to execute the project.
-
 ---
 
 # EcoTrace AI: Technical Strategist Jo
