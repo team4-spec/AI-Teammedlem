@@ -1,0 +1,40 @@
+[
+    {
+        "name": "mao_pro",
+        "description": "Default Mao Model",
+            "url": "/live2d-models/chitose/runtime/chitose.model3.json",
+        "kScale": 0.002,
+        "initialXshift": 0.0,
+        "initialYshift": 0.0,
+        "kXOffset": 0,
+        "idleMotionGroupName": "Idle",
+        "emotionMap": {
+            "neutral": 0,
+            "anger": 1,
+            "disgust": 2,
+            "fear": 3,
+            "joy": 4,
+            "smirk": 5,
+            "sadness": 6,
+            "surprise": 7
+        }
+    },
+    {
+        "name": "chitose",
+        "description": "Male Business Model",
+        "url": "/live2d-models/chitose/runtime/chitose.model3.json",
+        "kScale": 0.8,
+        "initialXshift": 0.0,
+        "initialYshift": -5,
+        "kXOffset": 0,
+        "idleMotionGroupName": "Idle",
+        "emotionMap": {
+            "neutral": 0,
+            "joy": 1,
+            "anger": 2,
+            "sadness": 3,
+            "fun": 4,
+            "surprise": 5
+        }
+    }
+]
